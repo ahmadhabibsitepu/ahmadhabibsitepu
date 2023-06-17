@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ahmadhabibsitepu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, my name is Habib
+- 👀 I’m interested to become a professional programmer
+- 🌱 I’m currently learning MERN stack for web developing
+- 💞️ I’m looking to collaborate on web project
+- 📫 You can reach me by my github (ahmadhabibsitepu) or my email (ahmadhabibsitepu@gmail.com)
 
 <!---
 ahmadhabibsitepu/ahmadhabibsitepu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
