@@ -1,0 +1,288 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 64">
+  <defs>
+    <style>
+      text {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        line-height: 1.5;
+        fill: rgb(230, 237, 243);
+      }
+
+      .h1 {
+        font-size: 32px;
+        font-weight: 600;
+      }
+
+      .h2 {
+        font-size: 16px;
+        font-weight: 600;
+      }
+
+      .hand {
+        scale: 75%;
+      }
+    </style>
+  </defs>
+  <g transform="translate(276, 6) rotate(-20)">
+    <path class="hand" stroke-linecap="round" fill="none" stroke-linejoin="round" stroke-width="1.5"
+      stroke="rgb(230, 237, 243)"
+      d="M10.05 4.575a1.575 1.575 0 10-3.15 0v3m3.15-3v-1.5a1.575 1.575 0 013.15 0v1.5m-3.15 0l.075 5.925m3.075.75V4.575m0 0a1.575 1.575 0 013.15 0V15M6.9 7.575a1.575 1.575 0 10-3.15 0v8.175a6.75 6.75 0 006.75 6.75h2.018a5.25 5.25 0 003.712-1.538l1.732-1.732a5.25 5.25 0 001.538-3.712l.003-2.024a.668.668 0 01.198-.471 1.575 1.575 0 10-2.228-2.228 3.818 3.818 0 00-1.12 2.687M6.9 7.575V12m6.27 4.318A4.49 4.49 0 0116.35 15m.002 0h-.002" />
+  </g>
+  <text class="h2" y="20" x="230" text-anchor="middle">
+    Hi i'm Habib
+  </text>
+  <g>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step1" begin="0s ;step72.end+80ms" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step2" begin="step1.end+80ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      |
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step3" begin="step2.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step4" begin="step3.end+80ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      F|
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step5" begin="step4.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step6" begin="step5.end+80ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FU|
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step7" begin="step6.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step8" begin="step7.end+80ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FUL|
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step9" begin="step8.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step10" begin="step9.end+80ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL|
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step11" begin="step10.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step12" begin="step11.end+80ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL |
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step13" begin="step12.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step14" begin="step13.end+80ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL S|
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step15" begin="step14.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step16" begin="step15.end+80ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL ST|
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step17" begin="step16.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step18" begin="step17.end+80ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STA|
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step19" begin="step18.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step20" begin="step19.end+80ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STAC|
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step21" begin="step20.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step22" begin="step21.end+80ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STACK|
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step23" begin="step22.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step24" begin="step23.end+80ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STACK |
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step25" begin="step24.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step26" begin="step25.end+80ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STACK W|
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step27" begin="step26.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step28" begin="step27.end+80ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STACK WE|
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step29" begin="step28.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step30" begin="step29.end+80ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STACK WEB|
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step31" begin="step30.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step32" begin="step31.end+80ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STACK WEB |
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step33" begin="step32.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step34" begin="step33.end+80ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STACK WEB D|
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step35" begin="step34.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step36" begin="step35.end+80ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STACK WEB DE|
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step37" begin="step36.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step38" begin="step37.end+80ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STACK WEB DEV|
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step39" begin="step38.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step40" begin="step39.end+80ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STACK WEB DEVE|
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step41" begin="step40.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step42" begin="step41.end+80ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STACK WEB DEVEL|
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step43" begin="step42.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step44" begin="step43.end+80ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STACK WEB DEVELO|
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step45" begin="step44.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step46" begin="step45.end+80ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STACK WEB DEVELOP|
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step47" begin="step46.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step48" begin="step47.end+80ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STACK WEB DEVELOPE|
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step49" begin="step48.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step50" begin="step49.end+80ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STACK WEB DEVELOPER|
+    </text>
+    <text class="h1" y="54" x="225.56" visibility="hidden" text-anchor="middle">
+      <animate id="step51" begin="step50.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step52" begin="step51.end+500ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STACK WEB DEVELOPER
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step53" begin="step52.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step54" begin="step53.end+500ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STACK WEB DEVELOPER|
+    </text>
+    <text class="h1" y="54" x="225.56" visibility="hidden" text-anchor="middle">
+      <animate id="step55" begin="step54.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step56" begin="step55.end+500ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STACK WEB DEVELOPER
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step57" begin="step56.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step58" begin="step57.end+500ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STACK WEB DEVELOPER|
+    </text>
+    <text class="h1" y="54" x="225.56" visibility="hidden" text-anchor="middle">
+      <animate id="step59" begin="step58.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step60" begin="step59.end+500ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STACK WEB DEVELOPER
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step61" begin="step60.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step62" begin="step61.end+500ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STACK WEB DEVELOPER|
+    </text>
+    <text class="h1" y="54" x="225.56" visibility="hidden" text-anchor="middle">
+      <animate id="step63" begin="step62.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step64" begin="step63.end+500ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STACK WEB DEVELOPER
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step65" begin="step64.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step66" begin="step65.end+500ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STACK WEB DEVELOPER|
+    </text>
+    <text class="h1" y="54" x="225.56" visibility="hidden" text-anchor="middle">
+      <animate id="step67" begin="step66.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step68" begin="step67.end+500ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STACK WEB DEVELOPER
+    </text>
+    <text class="h1" y="54" x="230" visibility="hidden" text-anchor="middle">
+      <animate id="step69" begin="step68.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step70" begin="step69.end+500ms" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STACK WEB DEVELOPER|
+    </text>
+    <text class="h1" y="54" x="225.56" visibility="hidden" text-anchor="middle">
+      <animate id="step71" begin="step70.end" dur="0.1ms" attributeName="visibility" from="hidden" to="visible"
+        fill="freeze" />
+      <animate id="step72" begin="step71.end" dur="0.1ms" attributeName="visibility" from="visible" to="hidden"
+        fill="freeze" />
+      FULL STACK WEB DEVELOPER
+    </text>
+  </g>
+
+</svg>
