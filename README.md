@@ -26,6 +26,19 @@ I'm a web developer from Indonesia, who follows the industry best practices in o
 
 ## Projects
 
+<img src="./assets/images/korpashopApp.jpg" />
+
+### [Korpa-Shop Inventory App - Mobile App](https://korpashop.vercel.app/download)
+
+**Personal Project : Mobile App for Korpa-Shop E-Commerce**
+
+A mobile app for browse available and purchased products from Korpa-Shop e-commerce, integrated with Korpa-Shop e-commerce API. Developed by me as a Sole Full Stack Web Developer.
+
+Created with **React Native, TypeScript**
+
+<hr/>
+<br/>
+
 <img src="./assets/images/korpashop.jpg" />
 
 ### [Korpa-Shop - E-Commerce Website](https://korpashop.vercel.app/)
@@ -48,19 +61,6 @@ Created with **Next.js, Tailwind CSS, TypeScript, PostgreSQL, Prisma**
 A full stack website for presenting a game company profile, including the games information and the latest news from the company. Developed by me as a Sole Full Stack Web Developer.
 
 Created with **Next.js, Tailwind CSS, TypeScript, MongoDB, Prisma**
-
-<hr/>
-<br/>
-
-<img src="./assets/images/portfolio.jpg" />
-
-### [My Portfolio - Portfolio Website](https://ahmadhabibullah.vercel.app/)
-
-**Personal Project : Portfolio Website About Myself**
-
-A website created to showcase skills, projects, and information about myself. Developed by me as a Sole Full Stack Web Developer.
-
-Created with **Next.js, Tailwind CSS, TypeScript**
 
 <hr/>
 <br/>
